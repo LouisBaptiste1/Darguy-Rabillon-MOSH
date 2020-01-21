@@ -1,4 +1,12 @@
-README - User guide
+# README - User guide
+
+## Authors : 
+
+	- Louis-Baptiste Rabillon
+	- Ludovic Darguy
+
+
+## Description : 
 
 In the folder Darguy-Rabillon, you will find two main branches : 
 	- Arduino
